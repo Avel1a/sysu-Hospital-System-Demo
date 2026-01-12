@@ -67,3 +67,4 @@ Bash
 
 streamlit run app.py
 启动成功后，浏览器会自动打开 http://localhost:8501
+https://github.com/user-attachments/assets/05570367-afe0-4c32-99bf-19d98307efc1
