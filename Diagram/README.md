@@ -1,4 +1,4 @@
-
+Guys check the validity plz
 
 ## 1. 实体结构
 
@@ -55,5 +55,6 @@
 ### **状态追踪**
 
 Appointments 与 Consultations 都具备 status 字段（如“待就诊”“就诊中”“已离院”），这样前台就可以依靠状态来进行筛选，比如查看所有正在进行的就诊记录。
+
 
 
